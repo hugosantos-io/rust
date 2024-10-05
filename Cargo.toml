@@ -1,6 +1,6 @@
-[package]
-name = "rust"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
+[workspace]
+members = [
+    "_0_hello_world",
+    "_1_guessing_game"
+]
+resolver = "2"
