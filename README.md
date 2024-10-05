@@ -1,2 +1,4 @@
-# rust
+
+# Rust
+
 Let's learn Rust!
